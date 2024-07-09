@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\Projects\\MetaSphere\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A61094E8-8EB8-95B9-6B34-512F77A8AB31}|Assembly-CSharp.csproj|d:\\workspace\\projects\\metasphere\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61094E8-8EB8-95B9-6B34-512F77A8AB31}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61094E8-8EB8-95B9-6B34-512F77A8AB31}|Assembly-CSharp.csproj|D:\\workspace\\Projects\\MetaSphere\\Assets\\PlayerSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61094E8-8EB8-95B9-6B34-512F77A8AB31}|Assembly-CSharp.csproj|solutionrelative:Assets\\PlayerSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\workspace\\Projects\\MetaSphere\\Assets\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
+              "ToolTip": "D:\\workspace\\Projects\\MetaSphere\\Assets\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\PlayerMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T11:46:09.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerSetup.cs",
+              "DocumentMoniker": "D:\\workspace\\Projects\\MetaSphere\\Assets\\PlayerSetup.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerSetup.cs",
+              "ToolTip": "D:\\workspace\\Projects\\MetaSphere\\Assets\\PlayerSetup.cs",
+              "RelativeToolTip": "Assets\\PlayerSetup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T11:46:03.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
